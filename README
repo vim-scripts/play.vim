@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4453
+
+Package contains syntax and snipMate snippets for Play! framework 1.x routes and templates.
+
+For additional information visit GitHub repository https://github.com/rdolgushin/play.vim.
